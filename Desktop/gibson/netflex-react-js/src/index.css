@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&family=Roboto:wght@100;300;400&family=Tiro+Devanagari+Marathi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@1,7..72,200&family=Poppins:wght@100;200&family=Roboto:wght@100;300;400&family=Tiro+Devanagari+Marathi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Literata:ital,opsz,wght@1,7..72,200&family=Poppins:wght@100;200&family=Roboto:wght@100;300;400&family=Tiro+Devanagari+Marathi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Literata:ital,opsz,wght@1,7..72,200&family=Noto+Sans+JP:wght@100;300;400;500&family=Poppins:wght@100;200&family=Roboto:wght@100;300;400&family=Tiro+Devanagari+Marathi&display=swap');
+
+body {
+  background-color: rgb(6, 6, 6);
+  font-family: 'Lato', 'Poppins', 'Literata', 'Bebas Neue', Verdana, Geneva, Tahoma, sans-serif;
+}
